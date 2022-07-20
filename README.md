@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Java**
 
-- 💬 Ask me about **HTML, CSS, JS, Python, C, Bash**
+- 💬 Ask me about **HTML, CSS, JS, Java, Python, C, Bash**
 
 - 📫 How to reach me **printf0cherif@gmail.com**
 
