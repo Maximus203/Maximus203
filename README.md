@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/printf_cherif" target="blank"><img src="https://img.shields.io/twitter/follow/printf_cherif?logo=twitter&style=for-the-badge" alt="printf_cherif" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **HTML, CSS, JS, Java, Python, C, Bash**
+- 💬 Ask me about **Laravel, Express JS, Spring, Django**
 
 - 📫 How to reach me **printf0cherif@gmail.com**
 
