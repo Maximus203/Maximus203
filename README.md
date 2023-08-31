@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximus203&label=Profile%20views&color=0e75b6&style=flat" alt="maximus203" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximus203" alt="maximus203" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximus203" alt="maximus203" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/printf_cherif" target="blank"><img src="https://img.shields.io/twitter/follow/printf_cherif?logo=twitter&style=for-the-badge" alt="printf_cherif" /></a> </p>
 
