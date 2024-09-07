@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Symfony**
 
-- 💬 Ask me about **Laravel, Express JS, Spring, Django**
+- 💬 Ask me about **Laravel, Spring, Django, Angular, React**
 
-- 📫 How to reach me **printf0cherif@gmail.com**
+- 📫 How to reach me **codewithcherif@gmail.com**
 
 - ⚡ Fun fact **You have to restart for it to work**
 
