@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-family: 'Fira Code', monospace;">
 
   <!-- 1. EN-TÊTE ANIMÉ : Fira Code + Ligatures + Termes Portfolio -->
   <a href="https://cherif-diouf.artist-dev.com/">
@@ -23,14 +23,14 @@
 <br/>
 
 <!-- 3. PRÉSENTATION VISUELLE -->
-<div align="center">
+<div align="center" style="font-family: 'Fira Code', monospace;">
   
   💻 **Développement Web & Mobile**  |  🇸🇳 **Dakar, Sénégal**  |  🎨 **Approche Créative**
   
   <br/>
   
   <!-- 4. STACK TECHNIQUE -->
-  <h3>Mon arsenal technique</h3>
+  <h3 style="font-family: 'Fira Code', monospace;">Mon arsenal technique</h3>
   
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind,sass,js" />
   <br/>
@@ -43,20 +43,20 @@
 <br/>
 
 <!-- 5. STATS DYNAMIQUES -->
-<div align="center">
+<div align="center" style="font-family: 'Fira Code', monospace;">
   <img src="https://github-readme-stats.vercel.app/api?username=Maximus203&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus203&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="150" alt="langs" />
 </div>
 
 <!-- 6. STREAK -->
-<div align="center">
+<div align="center" style="font-family: 'Fira Code', monospace;">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maximus203&theme=react&hide_border=true&background=0D1117&ring=36BCF7&currStreakNum=36BCF7" alt="streak" />
 </div>
 
 <br/>
 
-<div align="center">
+<div align="center" style="font-family: 'Fira Code', monospace;">
    <a href="https://cherif-diouf.artist-dev.com/">
      <img src="https://img.shields.io/badge/Artist--Dev-Code_%3D%3D%3D_Passion-black?style=social" alt="Footer Link">
    </a>
