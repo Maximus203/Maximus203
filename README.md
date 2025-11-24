@@ -2,6 +2,8 @@
 
   <!-- PHOTO DE PROFIL -->
   <img src="https://cherif-diouf.artist-dev.com/assets/photo.webp" alt="Cherif Diouf" width="150" style="border-radius: 50%; margin-bottom: 20px;" />
+  <br/>
+  
 
   <!-- 1. EN-TÊTE ANIMÉ : Fira Code + Ligatures + Termes Portfolio -->
   <a href="https://cherif-diouf.artist-dev.com/">
