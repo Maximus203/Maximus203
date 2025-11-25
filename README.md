@@ -67,16 +67,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maximus203&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maximus203&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" height="180" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Maximus203&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="streak graph" />
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
