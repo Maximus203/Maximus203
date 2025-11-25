@@ -45,6 +45,12 @@
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maximus203/Maximus203/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 <br/>
 
 <!-- 5. STATS DYNAMIQUES -->
@@ -58,6 +64,26 @@
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Maximus203&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&sideNums=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=fff" alt="streak" />
 </div> -->
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maximus203&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maximus203&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Maximus203&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Maximus203&theme=flat&no-bg=true&margin-w=10&margin-h=10" alt="Maximus203 trophies" />
+  </a>
+</div>
+
 
 <br/>
 
