@@ -39,25 +39,25 @@
   
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind,sass,js" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,express,python,mysql" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
 
 </div>
 
 <br/>
 
 <!-- 5. STATS DYNAMIQUES -->
-<div align="center" style="font-family: 'Fira Code', monospace;">
+<!-- <div align="center" style="font-family: 'Fira Code', monospace;">
   <img src="https://github-readme-stats.vercel.app/api?username=Maximus203&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=fff&count_private=true&include_all_commits=true" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus203&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=fff&langs_count=8" height="180" alt="langs" />
-</div>
+</div> -->
 
 <!-- 6. STREAK -->
-<div align="center" style="font-family: 'Fira Code', monospace;">
+<!-- <div align="center" style="font-family: 'Fira Code', monospace;">
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Maximus203&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&sideNums=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=fff" alt="streak" />
-</div>
+</div> -->
 
 <br/>
 
